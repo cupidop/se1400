@@ -2,8 +2,7 @@
       background-color: #FFFFFF;
       color: #666666;
       font-family: Verdana, Arial;
-      background-attatchment: fixed;
-      background-image: linear-gradient(to bottom, #ffffff, #eeeeee)
+      background-image: linear-gradient(to bottom, #ffffff, #eeeeee) background-attachment:fixed;
   }
 
   header {
@@ -48,4 +47,27 @@
       width: 80%;
       margin-right: auto;
       margin-left: auto;
+  }
+
+  #wrapper {
+      background-color: #ffffff;
+      min-height: 960px;
+      max-width: 2048px;
+      margin: auto;
+      width: 80%;
+      box-shadow: 0px 3px 3px rgba(66, 66, 66, 0.3)
+  }
+
+  h3 {
+      color: #003058
+  }
+
+  main {
+      padding-left: 2rem;
+      padding-right: 2rem;
+  }
+
+  #homehero {
+      background-image: url(../utahtechimages/homehero.jpg);
+      background-size: cover;
   }
