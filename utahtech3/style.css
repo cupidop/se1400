@@ -69,11 +69,10 @@ main {
     padding-right: 2rem;
 }
 
-#homehero {
+#homehero img {
     background-image: url(utahtechimages/homehero.jpg);
     background-size: cover;
     background-position: center;
-    background-repeat: no-repeat;
     height: 300px;
 }
 
