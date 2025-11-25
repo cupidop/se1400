@@ -2,7 +2,8 @@
       background-color: #FFFFFF;
       color: #666666;
       font-family: Verdana, Arial;
-      background-image: linear-gradient(to bottom, #ffffff, #eeeeee) background-attachment:fixed;
+      background-image: url(../utahtechimages/homehero.jpg);
+      background-image: linear-gradient(to bottom, #ffffff, #eeeeee)
   }
 
   header {
@@ -70,4 +71,11 @@
   #homehero {
       background-image: url(../utahtechimages/homehero.jpg);
       background-size: cover;
+      background-attachment: fixed;
+  }
+
+  #studenthero {
+      background-image: url(../utahtechimages/studenthero.jpg);
+      background-size: 300px;
+      background-attachment: fixed;
   }
