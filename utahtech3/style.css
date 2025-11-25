@@ -2,8 +2,7 @@ body {
     background-color: #FFFFFF;
     color: #666666;
     font-family: Verdana, Arial;
-    background-image: url(../utahtechimages/homehero.jpg),
-        linear-gradient(to bottom, #ffffff, #eeeeee);
+    (to bottom, #ffffff, #eeeeee);
     background-attachment: fixed;
 }
 
