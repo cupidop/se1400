@@ -70,15 +70,17 @@ main {
 }
 
 #homehero {
-    background-image: url(../utahtechimages/homehero.jpg);
+    background-image: url(utahtechimages/homehero.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    height: 70px;
+    height: 300px;
 }
 
 
-#studenthero {
-    background-image: url(../utahtechimages/studenthero.jpg);
-    background-size: 300px;
+#studenthero img {
+    background-image: url(utahtechimages/studenthero.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 300px;
 }
