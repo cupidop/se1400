@@ -82,3 +82,15 @@ main {
     background-position: center;
     height: 300px;
 }
+
+#facultyhero img {
+    background-image: url(utahtechimages/facultyhero.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 300px;
+}
+
+
+nav a {
+    text-decoration: none;
+}
