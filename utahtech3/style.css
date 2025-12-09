@@ -73,6 +73,7 @@ main {
     height: 300px;
     background-size: cover;
     background-position: cover;
+    object-fit: cover;
 }
 
 #studenthero {
@@ -80,6 +81,7 @@ main {
     height: 300px;
     background-size: cover;
     background-position: cover;
+    object-fit: cover;
 }
 
 #facultyhero {
@@ -87,6 +89,7 @@ main {
     height: 300px;
     background-size: cover;
     background-position: cover;
+    object-fit: cover;
 }
 
 
