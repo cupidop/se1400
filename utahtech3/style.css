@@ -71,7 +71,7 @@ main {
 #homehero img {
     background-image: url(utahtechimages/homehero.jpg);
     background-size: cover;
-    background-position: center;
+    width: 100px;
     height: 300px;
 }
 
@@ -79,7 +79,7 @@ main {
 #studenthero img {
     background-image: url(utahtechimages/studenthero.jpg);
     background-size: cover;
-    background-position: center;
+    width: 100px;
     height: 300px;
 }
 
